@@ -86,7 +86,7 @@ public class Main
     }
 
     private static void gradeStudent(StudentService studentService, Scanner scanner) {
-        // Find student. use findStudent in student ervice
+        // Find student. use findStudent in student service
         // if student is found. Check against the approvedCourses
         // scanner to ask which course they want to grade
         // Obtain the course from courseService, Verify the course exits in courseService
